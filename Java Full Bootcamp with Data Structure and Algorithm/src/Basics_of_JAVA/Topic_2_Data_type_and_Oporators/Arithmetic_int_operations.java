@@ -14,5 +14,9 @@ public class Arithmetic_int_operations {
         System.out.println(y-x);
         System.out.println(y*x);
         System.out.println(y/x); // Answer will be zero
+
+        // We can also do the with fewer lines
+        // int x = 5, y = 2;
+
     }
 }
